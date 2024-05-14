@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding,Learning,fishing,movie,Traveling.
 - 🌱 I’m currently learning Progmming Hero Web Courses.
 - 💞️ I’m looking to collaborate on 👉 If someone builds a website from me, he will get many technical benefits.
-- 📫 How to reach me mdfirozkabir.31@gmail.com or Chat me WhatsApp 👉 +8801842535747.
+- 📫 How to reach me mdfirozkabir.31@gmail.com or Chat me WhatsApp 👉 +8801842535747
 - 😄 Pronouns: Firoz
 - ⚡ Fun fact: Joks
 
