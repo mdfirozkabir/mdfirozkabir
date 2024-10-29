@@ -12,9 +12,16 @@ Skills: VUE JS / REACT / JS / HTML / CSS /PHP
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with Remote Jobs 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: wa.me/+8801842535747 & can mail me mdfirozkabir.31@gmail.com 
+- 📫 How to reach me: wa.me/+8801842535747 
 
+## Skill % Experince:
+👉 ReactJS <br>
+👉 JavaScript <br>
+👉 PHP <br>
+👉 HTML5 / CSS / Tailwind / Bootstrap <br>
+👉 Photoshop / Power AutoMate etc.
 
+## 🔗 Connect with me!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdfirozkabir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdfirozkabir.g/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdfirozkabir.g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mdfirozkabir.g/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mdfirozkabir.g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/mdfirozkabir)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfirozkabir)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,3 +32,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS /PHP
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdfirozkabir)  
 
+## For Business Inquiries
+👉 mdfirozkabir.31@gmail.com
