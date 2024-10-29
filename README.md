@@ -26,7 +26,7 @@ I'm a Front End Web Developer who is passionate about making error-free websites
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdfirozkabir&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/mdfirozkabir)  
+// ![GitHub metrics](https://metrics.lecoq.io/mdfirozkabir)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdfirozkabir)  
 
