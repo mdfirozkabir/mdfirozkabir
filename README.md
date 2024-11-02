@@ -10,8 +10,7 @@ I'm a Front End Web Developer who is passionate about making error-free websites
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with Remote Jobs 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: wa.me/+8801842535747 
-
+- 📫 How to reach me:
 ## Skill % Experince:
 👉 ReactJS <br>
 👉 JavaScript <br>
@@ -20,7 +19,7 @@ I'm a Front End Web Developer who is passionate about making error-free websites
 👉 Photoshop / Power AutoMate etc.
 
 ## 🔗 Connect with me!
-[<img src='https://i.ibb.co.com/3RtFn1P/github.png' alt='github' height='40'>](https://github.com/mdfirozkabir) [<img src='https://i.ibb.co.com/TMsLrxP/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdfirozkabir.g/) [<img src='https://i.ibb.co.com/59mb1L8/Facebook.png' alt='facebook' height='40'>](https://www.facebook.com/mdfirozkabir.g) [<img src='https://i.ibb.co.com/GWccrLZ/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/mdfirozkabir.g/)  [<img src='https://i.ibb.co.com/cJ9Qryq/twitter.png' alt='twitter' height='40'>](https://twitter.com/mdfirozkabir.g)  [<img src='https://i.ibb.co.com/7WX6Y3j/reddit.png' alt='Reddit' height='40'>](https://www.reddit.com/user/mdfirozkabir) [<img src='https://i.ibb.co.com/ky2MXfQ/whatsapp.png' alt='whatsapp' height='40'>](https://wa.me/+8801842535747)  [<img src='https://i.ibb.co.com/dDY6KbQ/telegram.png' alt='telegram' height='40'>](https://t.me/+8801842535747)  [<img src='https://i.ibb.co.com/PwpvfFL/messenger.png' alt='Massenger' height='40'>](https://m.me/mdfirozkabir.g)  
+[<img src='https://i.ibb.co.com/3RtFn1P/github.png' alt='github' height='40'>](https://github.com/mdfirozkabir) [<img src='https://i.ibb.co.com/TMsLrxP/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdfirozkabir.g/) [<img src='https://i.ibb.co.com/59mb1L8/Facebook.png' alt='facebook' height='40'>](https://www.facebook.com/mdfirozkabir.g) [<img src='https://i.ibb.co.com/GWccrLZ/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/mdfirozkabir.g/)  [<img src='https://i.ibb.co.com/cJ9Qryq/twitter.png' alt='twitter' height='40'>](https://twitter.com/mdfirozkabir.g)  [<img src='https://i.ibb.co.com/7WX6Y3j/reddit.png' alt='Reddit' height='40'>](https://www.reddit.com/user/mdfirozkabir) [<img src='https://i.ibb.co.com/ky2MXfQ/whatsapp.png' alt='whatsapp' height='40'>](https://wa.me/+8801842535747)  [<img src='https://i.ibb.co.com/dDY6KbQ/telegram.png' alt='telegram' height='40'>](https://t.me/mdfirozkabir)  [<img src='https://i.ibb.co.com/PwpvfFL/messenger.png' alt='Massenger' height='40'>](https://m.me/mdfirozkabir.g)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfirozkabir)](https://github.com/anuraghazra/github-readme-stats)
 
