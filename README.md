@@ -1,4 +1,4 @@
-![Web Developer](https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/464968575_525837657009564_1635752078797496419_n.jpg?stp=dst-jpg_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEpLcBlmAmo7Wa2Qhntpiwg8tMENhrPjHzy0wQ2Gs-MfPNI3rXFOxn7K0e-9dLcemOQW_J3JD8csHfBRTFcXk_M&_nc_ohc=L2mc3s49HwoQ7kNvgE8pz7T&_nc_zt=23&_nc_ht=scontent.fdac151-1.fna&_nc_gid=AOKtgSThJJbOmS6qNxQGulV&oh=00_AYB7pBiiIlkog7q4iZdE-2qcbIAdv1y1vVTbN9Vwv4yFhw&oe=672645F6)
+![Web Developer](https://i.ibb.co.com/CJZTjjf/FB-IMG-1733762122912.jpg)
 
 ### Hi there 👋, my name is Firoz
 #### Web Developer
